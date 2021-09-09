@@ -1,0 +1,54 @@
+[{
+    "id": 1,
+    "task": "Mandiin kucing",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Mencuci Baju",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Menyapu Lantai",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Kasih Makan Kucing",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Ganti Lampu Belajar",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Pergi Ke Warung",
+    "complete": true
+  }, {
+    "id": 7,
+    "task": "Ngisi Galon",
+    "complete": true
+  }, {
+    "id": 8,
+    "task": "Ke Bengkel",
+    "complete": false
+  }, {
+    "id": 9,
+    "task": "Ngerjain Tugas Kerja",
+    "complete": true
+  }, {
+    "id": 10,
+    "task": "Meeting Kerja",
+    "complete": false
+  }, {
+    "id": 11,
+    "task": "Ngerjain Tugas Kuliah",
+    "complete": true
+  }, {
+    "id": 12,
+    "task": "Membaca Referensi",
+    "complete": true
+  }, {
+    "id": 13,
+    "task": "Latihan",
+    "complete": false
+  }]
+ 
